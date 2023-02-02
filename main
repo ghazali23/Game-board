@@ -1,6 +1,6 @@
 // code written by :Ahmed Al-ghazali.
 //board game designed by Dr. Mohammad El-Ramly
-//Each player starts with n – 2 rockets
+//Each player starts with size – 2 rockets
 //one player has rockets in the left side facing right and one player has rockets on the top side facing down.
 //Rockets can ONLY move forward.
 
